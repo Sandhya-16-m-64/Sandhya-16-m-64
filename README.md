@@ -11,10 +11,6 @@ Hello! I'm Sandhya Kumari, a passionate Data Analyst based in Bengaluru, India. 
 
 ---
 
-![Programming](https://user-images.githubusercontent.com/your-image-url-here.png) <!-- Replace with an actual image URL -->
-
----
-
 # 🚀 What Do I Do?
 
 - 🔍 **Finding Insights**: Love turning data into actionable insights.
